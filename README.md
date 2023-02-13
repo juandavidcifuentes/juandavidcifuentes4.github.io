@@ -6,7 +6,7 @@
 	</head>
 	<body>
 			<h2>Activite faite en classe:</h2>
-			<li>On a fait une presentation sur une reseaux sociaux conu:</li>
+			<li>On a fait une presentation sur une reseaux sociaux:</li>
 			
 	</body>
 </html>
